@@ -11,7 +11,7 @@ out[ 0] = ~e ^ e;
 As the diagram shows, this can be done more easily using the replication and concatenation operators.
 
 The top vector is a concatenation of 5 repeats of each input
-The bottom vector is 5 repeats of a concatenation of the 5 inputs *\
+The bottom vector is 5 repeats of a concatenation of the 5 inputs */
 
 module top_module (
     input a, b, c, d, e,
